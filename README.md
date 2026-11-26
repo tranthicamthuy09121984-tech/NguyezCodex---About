@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/tranthicamthuy09121984-tech/NguyezCodex---About/refs/heads/main/image/logo.png?style=height=15px&width=5px)
+<img src="https://raw.githubusercontent.com/tranthicamthuy09121984-tech/NguyezCodex---About/refs/heads/main/image/logo.png" width="100" alt="NguyezCodex Logo">
 # 👋 Xin chào, mình là Phúc Nguyên!
 
 ## ✨ Mình là ai?
